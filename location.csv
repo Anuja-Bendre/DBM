@@ -1,0 +1,32 @@
+location_id,restaurant_phone,restaurant_email,restaurant_url,restaurant_rating,pricing_id,street,city,state,zipcode,operating_hours,restaurant_id
+1,123456789,Bossa@gmail.com,www.Bossa.com,5,1,1102 Georgetown Street,Hyattsville,MD,12345,10 AM - 10 PM,6
+2,234567891,Naanwise@gmail.com,www.Naanwise.com,1,2,1884 Layla Street,Alexandria,VA,21701,11 AM - 8 PM,7
+3,345678912,GahRhamRestaurant@gmail.com,www.GahRhamRestaurant.com,5,2,33 Palm Blvd,Arlington,VA,21801,5 AM - 7 PM,10
+4,456789987,TheHall@gmail.com,www.TheHall.com,1,3,7484 Cooper Dr,Georgetown,DC,20874,11 AM - 10 PM,11
+5,567901048,CollegeParkDiner@gmail.com,www.CollegeParkDiner.com,2,4,722 Melani Street,Frederick,MD,20875,12 AM - 8 PM,12
+6,679012110,Sardi'sChicken@gmail.com,www.SardisChicken.com,2,3,490 SardiChicken Dr,College Park,MD,20878,6 AM - 7 PM,15
+7,790123171,Subway@gmail.com,www.Subway.com,1,3,906 Germanton Rd,Lanham,MD,12345,12 AM - 10 PM,16
+8,901234233,SeoulSpice@gmail.com,www.SeoulSpice.com,1,2,388 Rockville Pike St,Takoma Park,MD,21701,11 AM - 8 PM,17
+9,1012345294,Cava@gmail.com,www.Cava.com,2,1,231 Poolesville Pike,Rockville,MD,21801,7 AM - 7 PM,18
+10,1123456356,PizzaKingdom@gmail.com,www.PizzaKingdom.com,2,2,555 Frederick Rd,Baltimore,MD,20874,10 AM - 10 PM,19
+11,1234567418,PapaJohnsPizza@gmail.com,www.PapaJohnsPizza.com,2,4,875 Walkersmile Dr,Hyattsville,MD,20875,11 AM - 8 PM,20
+12,1345678479,DominosPizza@gmail.com,www.DominosPizza.com,5,3,399 George Rd,Alexandria,VA,20878,8 AM - 7 PM,21
+13,1456789541,OliveGarden@gmail.com,www.OliveGarden.com,4,4,239 Milestone Street,Arlington,VA,12345,7 AM - 7 PM,22
+14,1567900602,Miller's Ale House@gmail.com,www.MillersAleHouse.com,3,2,9300 Georgetown Street,Georgetown,DC,21701,10 AM - 10 PM,23
+15,1679011664,Wingstop@gmail.com,www.Wingstop.com,4,4,6787 Chandler St,Frederick,MD,21801,11 AM - 8 PM,24
+16,1790122725,&Pizza@gmail.com,www.&Pizza.com,1,2,8909 Kramer Dr,College Park,MD,20874,7 AM - 7 PM,25
+17,1901233787,Shaleafa'sKitchen@gmail.com,www.ShaleafasKitchen.com,4,3,2342 Costanza St,Lanham,MD,20875,10 AM - 10 PM,26
+18,2012344848,VirtualXKitchen@gmail.com,www.VirtualXKitchen.com,4,3,6787 Washington St,Takoma Park,MD,20878,11 AM - 8 PM,27
+19,2123455910,BentoSushi@gmail.com,www.BentoSushi.com,5,4,5977 Seinfeld Dr,Rockville,MD,20782,7 AM - 7 PM,28
+20,2123455903,mcdonald@gmail.com,www.mcdonald.com,5,3,7898 Hatter St,Baltimore,MD,20710,10 AM - 10 PM,1
+21,123456789,mcdonald@gmail.com,www.mcdonald.com,3,2,8900 Maine St,Hyattsville,MD,12345,10 AM - 10 PM,1
+22,234567891,spice6@gmail.com,www.Spice6.com,3,3,4576 Archer St,Alexandria,VA,21701,11 AM - 8 PM,2
+23,345678912,redchillies@gmail.com,www.RedChillies.com,1,3,2345 Hull St,Arlington,VA,21801,5 AM - 7 PM,3
+24,456789987,wendys@gmail.com,www.Wendys.com,2,2,2343 Gaithersburg St,Georgetown,DC,20874,11 AM - 10 PM,4
+25,567901048,dennys@gmail.com,www.Dennys.com,1,2,5323 Heather Dr,Frederick,MD,20875,12 AM - 8 PM,5
+26,679012110,bossa@gmail.com,www.Bossa.com,4,4,4567 Regents Dr,College Park,MD,20878,6 AM - 7 PM,6
+27,790123171,Naanwise@gmail.com,www.Naanwise.com,3,3,6788 North Dr,Lanham,MD,12345,12 AM - 10 PM,7
+28,901234233,HotelAbhishek@gmail.com,www.HotelAbhishek.com,1,3,1959 East St,Takoma Park,MD,21701,11 AM - 8 PM,8
+29,1012345294,BombayStreetFood@gmail.com,www.BombayStreetFood.com,3,4,1233 West Blvd,Rockville,MD,21801,7 AM - 7 PM,9
+30,1123456356,GahRhamRestaurant@gmail.com,www.GahRhamRestaurant.com,3,1,4363 Preinkert Dr,Baltimore,MD,20874,10 AM - 10 PM,10
+31,1234567418,TheHall@gmail.com,www.TheHall.com,1,3,4656 Hotel Dr,Hyattsville,MD,20875,11 AM - 10 PM,11
